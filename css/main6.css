@@ -1,0 +1,41 @@
+#box_1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+#box_2 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}
+#box_3 {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+}
+#box_4 {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	background: #ebde52;
+}
+#orange {
+  position: absolute;
+  bottom: 82px;
+  right: 82px;
+  width: 40px;
+  height: 40px;
+  background :#f95b34;
+}
+/* inspeccione el enlace que nos dieron del ejercioF y me percate que para ter unas replicas identicas los top, left se trabajan con porcentajes y de hay sque el color exacto del cuadrito y su tamaño*/
